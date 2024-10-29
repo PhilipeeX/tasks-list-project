@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "id": "9d10",
+      "tarefa": "Adicionar debug ao phpstorm",
+      "categoria": "trabalho",
+      "concluido": true
+    },
+    {
+      "id": "90ca",
+      "tarefa": "adicionar debug ao rubymine",
+      "categoria": "trabalho",
+      "concluido": true
+    }
+  ]
+}
